@@ -1,0 +1,833 @@
+Sep 02 07:12:58 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:12:58 imapy npm[6555]: > default_template@0.1.0 dev
+Sep 02 07:12:58 imapy npm[6555]: > next dev
+Sep 02 07:12:58 imapy npm[6567]: sh: 1: next: not found
+Sep 02 07:12:58 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:12:58 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:00 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 1.
+Sep 02 07:13:00 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:00 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:01 imapy npm[6569]: > default_template@0.1.0 dev
+Sep 02 07:13:01 imapy npm[6569]: > next dev
+Sep 02 07:13:01 imapy npm[6580]: sh: 1: next: not found
+Sep 02 07:13:01 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:01 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:03 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 2.
+Sep 02 07:13:03 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:03 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:03 imapy npm[6594]: > default_template@0.1.0 dev
+Sep 02 07:13:03 imapy npm[6594]: > next dev
+Sep 02 07:13:03 imapy npm[6605]: sh: 1: next: not found
+Sep 02 07:13:03 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:03 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:06 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 3.
+Sep 02 07:13:06 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:06 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:06 imapy npm[6606]: > default_template@0.1.0 dev
+Sep 02 07:13:06 imapy npm[6606]: > next dev
+Sep 02 07:13:06 imapy npm[6617]: sh: 1: next: not found
+Sep 02 07:13:06 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:06 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:08 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 4.
+Sep 02 07:13:08 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:08 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:09 imapy npm[6619]: > default_template@0.1.0 dev
+Sep 02 07:13:09 imapy npm[6619]: > next dev
+Sep 02 07:13:09 imapy npm[6631]: sh: 1: next: not found
+Sep 02 07:13:09 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:09 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:11 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 5.
+Sep 02 07:13:11 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:11 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:12 imapy npm[6632]: > default_template@0.1.0 dev
+Sep 02 07:13:12 imapy npm[6632]: > next dev
+Sep 02 07:13:12 imapy npm[6643]: sh: 1: next: not found
+Sep 02 07:13:12 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:12 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:14 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 6.
+Sep 02 07:13:14 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:14 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:14 imapy npm[6644]: > default_template@0.1.0 dev
+Sep 02 07:13:14 imapy npm[6644]: > next dev
+Sep 02 07:13:14 imapy npm[6655]: sh: 1: next: not found
+Sep 02 07:13:14 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:14 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:17 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 7.
+Sep 02 07:13:17 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:17 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:17 imapy npm[6656]: > default_template@0.1.0 dev
+Sep 02 07:13:17 imapy npm[6656]: > next dev
+Sep 02 07:13:17 imapy npm[6667]: sh: 1: next: not found
+Sep 02 07:13:17 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:17 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:19 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 8.
+Sep 02 07:13:19 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:19 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:20 imapy npm[6668]: > default_template@0.1.0 dev
+Sep 02 07:13:20 imapy npm[6668]: > next dev
+Sep 02 07:13:20 imapy npm[6679]: sh: 1: next: not found
+Sep 02 07:13:20 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:20 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:22 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 9.
+Sep 02 07:13:22 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:22 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:23 imapy npm[6681]: > default_template@0.1.0 dev
+Sep 02 07:13:23 imapy npm[6681]: > next dev
+Sep 02 07:13:23 imapy npm[6692]: sh: 1: next: not found
+Sep 02 07:13:23 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:23 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:25 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 10.
+Sep 02 07:13:25 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:25 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:25 imapy npm[6693]: > default_template@0.1.0 dev
+Sep 02 07:13:25 imapy npm[6693]: > next dev
+Sep 02 07:13:25 imapy npm[6704]: sh: 1: next: not found
+Sep 02 07:13:25 imapy systemd[1]: [0;1;39m[0;1;31m[0;1;39mfreestyle-run-dev.service: Main process exited, code=exited, status=127/n/a[0m
+Sep 02 07:13:25 imapy systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfreestyle-run-dev.service: Failed with result 'exit-code'.[0m
+Sep 02 07:13:28 imapy systemd[1]: freestyle-run-dev.service: Scheduled restart job, restart counter is at 11.
+Sep 02 07:13:28 imapy systemd[1]: Stopped freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:28 imapy systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Sep 02 07:13:28 imapy npm[6753]: > default_template@0.1.0 dev
+Sep 02 07:13:28 imapy npm[6753]: > next dev
+Sep 02 07:13:30 imapy npm[6780]:    ▲ Next.js 15.3.0
+Sep 02 07:13:30 imapy npm[6780]:    - Local:        http://localhost:3000
+Sep 02 07:13:30 imapy npm[6780]:    - Network:      http://172.16.0.2:3000
+Sep 02 07:13:30 imapy npm[6780]:  ✓ Starting...
+Sep 02 07:13:30 imapy npm[6780]: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Sep 02 07:13:30 imapy npm[6780]: This information is used to shape Next.js' roadmap and prioritize features.
+Sep 02 07:13:30 imapy npm[6780]: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Sep 02 07:13:30 imapy npm[6780]: https://nextjs.org/telemetry
+Sep 02 07:13:31 imapy npm[6780]:  ✓ Ready in 1771ms
+Sep 02 07:13:57 imapy npm[6780]:  ○ Compiling /middleware ...
+Sep 02 07:13:58 imapy npm[6780]:  ✓ Compiled /middleware in 1315ms (202 modules)
+Sep 02 07:13:58 imapy npm[6780]:  ○ Compiling / ...
+Sep 02 07:14:04 imapy npm[6780]:  ✓ Compiled / in 6s (722 modules)
+Sep 02 07:14:04 imapy npm[6780]:  GET / 200 in 6391ms
+Sep 07 18:08:27 xtrgj npm[6780]:  GET / 200 in 616ms
+Sep 07 18:08:27 xtrgj npm[6780]:  ✓ Compiled in 1314ms (323 modules)
+Sep 07 18:08:27 xtrgj npm[6780]:  GET / 200 in 42ms
+Sep 07 18:08:28 xtrgj npm[6780]:    Reload env: .env
+Sep 07 18:08:33 xtrgj npm[6780]:  ✓ Compiled in 4.8s (922 modules)
+Sep 07 18:08:33 xtrgj npm[6780]:  HEAD / 200 in 3277ms
+Sep 07 18:08:33 xtrgj npm[6780]:  GET / 200 in 3316ms
+Sep 07 18:08:33 xtrgj npm[6780]:  HEAD / 200 in 51ms
+Sep 07 18:08:35 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:08:38 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:08:40 xtrgj npm[6780]:  ⚠ Blocked cross-origin request from xtrgj.vm.freestyle.sh to /_next/* resource. To allow this, configure "allowedDevOrigins" in next.config
+Sep 07 18:08:40 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+Sep 07 18:08:41 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:08:42 xtrgj npm[6780]:  GET / 200 in 33ms
+Sep 07 18:08:45 xtrgj npm[6780]:  HEAD / 200 in 35ms
+Sep 07 18:08:48 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:08:51 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:08:54 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:08:57 xtrgj npm[6780]:  HEAD / 200 in 48ms
+Sep 07 18:09:00 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:09:03 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 18:09:06 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:09:09 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:09:11 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:09:12 xtrgj npm[6780]:  GET /?_refresh=1 200 in 41ms
+Sep 07 18:09:12 xtrgj npm[6780]:  GET / 200 in 46ms
+Sep 07 18:09:14 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:09:18 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:09:21 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:09:24 xtrgj npm[6780]:  HEAD / 200 in 36ms
+Sep 07 18:09:27 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:09:30 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:09:33 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:09:36 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:09:39 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:09:42 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:09:45 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:09:48 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:09:51 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:09:54 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:09:57 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:10:00 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:10:03 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:10:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:10:09 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:10:12 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:10:15 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:10:22 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:10:44 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:10:44 xtrgj npm[6780]:  HEAD / 200 in 40ms
+Sep 07 18:10:47 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 18:10:50 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:10:53 xtrgj npm[6780]:  HEAD / 200 in 41ms
+Sep 07 18:10:56 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:10:59 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:11:02 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:05 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:11:08 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:12 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:15 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:11:18 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:11:20 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:24 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:27 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:11:30 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:11:32 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:11:36 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:11:39 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:42 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:11:45 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:11:48 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:11:51 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:11:54 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:11:57 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:12:00 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:12:03 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:12:06 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:12:09 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:12:12 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:12:15 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:12:18 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:12:21 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:12:23 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:12:27 xtrgj npm[6780]:  HEAD / 200 in 44ms
+Sep 07 18:12:30 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:12:33 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:12:36 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:12:39 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:12:42 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:12:45 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:12:48 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:12:51 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:12:54 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:12:57 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:13:00 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:13:03 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:06 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:13:09 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:12 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:15 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:18 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:13:20 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:23 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:13:26 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:13:29 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:32 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:13:36 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:13:39 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:42 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:45 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:13:48 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:51 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:13:54 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:13:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:00 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:02 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:14:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:09 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:12 xtrgj npm[6780]:  HEAD / 200 in 35ms
+Sep 07 18:14:14 xtrgj npm[6780]:  ✓ Compiled in 316ms (323 modules)
+Sep 07 18:14:15 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:14:15 xtrgj npm[6780]:  GET /?_refresh=3 200 in 34ms
+Sep 07 18:14:18 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:14:21 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:14:24 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:14:27 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:14:30 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:14:31 xtrgj npm[6780]:  ✓ Compiled in 154ms (323 modules)
+Sep 07 18:14:32 xtrgj npm[6780]:  GET /?_refresh=4 200 in 42ms
+Sep 07 18:14:33 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:14:33 xtrgj npm[6780]:  GET /?_refresh=5 200 in 33ms
+Sep 07 18:14:36 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:14:39 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:14:42 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:45 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:14:48 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:14:51 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:14:54 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:14:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:15:00 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:15:03 xtrgj npm[6780]:  HEAD / 200 in 44ms
+Sep 07 18:15:22 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:15:26 xtrgj npm[6780]:  ✓ Compiled in 181ms (323 modules)
+Sep 07 18:15:26 xtrgj npm[6780]:  GET /?_refresh=6 200 in 41ms
+Sep 07 18:15:27 xtrgj npm[6780]:  GET /?_refresh=7 200 in 40ms
+Sep 07 18:15:40 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:15:41 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:15:44 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:15:47 xtrgj npm[6780]:  ✓ Compiled in 1034ms (707 modules)
+Sep 07 18:15:47 xtrgj npm[6780]:  HEAD / 200 in 246ms
+Sep 07 18:15:47 xtrgj npm[6780]:  GET /?_refresh=9 200 in 36ms
+Sep 07 18:15:50 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:15:53 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:15:56 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:16:00 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:16:03 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:09 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:16:12 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:16:15 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:16:18 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:16:19 xtrgj npm[6780]:  ✓ Compiled in 183ms (323 modules)
+Sep 07 18:16:19 xtrgj npm[6780]:  GET /?_refresh=10 200 in 36ms
+Sep 07 18:16:20 xtrgj npm[6780]:  GET /?_refresh=11 200 in 36ms
+Sep 07 18:16:21 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:16:24 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:27 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:16:30 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:33 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:36 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:39 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:42 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:44 xtrgj npm[6780]:  ✓ Compiled in 131ms (323 modules)
+Sep 07 18:16:45 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:16:45 xtrgj npm[6780]:  GET /?_refresh=12 200 in 33ms
+Sep 07 18:16:46 xtrgj npm[6780]:  GET /?_refresh=13 200 in 38ms
+Sep 07 18:16:48 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:16:51 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:16:54 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:16:57 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:17:22 xtrgj npm[6780]:  HEAD / 200 in 35ms
+Sep 07 18:17:40 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:17:41 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:17:45 xtrgj npm[6780]:  HEAD / 200 in 35ms
+Sep 07 18:17:49 xtrgj npm[6780]:  ✓ Compiled in 3.9s (1503 modules)
+Sep 07 18:17:49 xtrgj npm[6780]:  HEAD / 200 in 778ms
+Sep 07 18:17:49 xtrgj npm[6780]:  GET /?_refresh=15 200 in 2594ms
+Sep 07 18:17:51 xtrgj npm[6780]:  HEAD / 200 in 68ms
+Sep 07 18:17:54 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:17:57 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:00 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:18:01 xtrgj npm[6780]:  ✓ Compiled in 242ms (719 modules)
+Sep 07 18:18:01 xtrgj npm[6780]:  ✓ Compiled in 214ms (719 modules)
+Sep 07 18:18:03 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:18:06 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:09 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:18:12 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:15 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:15 xtrgj npm[6780]:  ✓ Compiled in 289ms (1503 modules)
+Sep 07 18:18:16 xtrgj npm[6780]:  GET /?_refresh=17 200 in 213ms
+Sep 07 18:18:18 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:18:20 xtrgj npm[6780]:  GET / 200 in 39ms
+Sep 07 18:18:21 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:18:24 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:27 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:18:30 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:18:33 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:18:36 xtrgj npm[6780]:  ✓ Compiled in 381ms (719 modules)
+Sep 07 18:18:36 xtrgj npm[6780]:  HEAD / 200 in 39ms
+Sep 07 18:18:39 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:18:42 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:19:22 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:19:56 xtrgj npm[6780]:  HEAD / 200 in 38ms
+Sep 07 18:19:56 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:19:56 xtrgj npm[6780]:  GET /?_refresh=18 200 in 42ms
+Sep 07 18:19:57 xtrgj npm[6780]:  GET / 200 in 38ms
+Sep 07 18:19:59 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:20:02 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:20:05 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:20:08 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:20:11 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:20:15 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:20:18 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:20:21 xtrgj npm[6780]:  HEAD / 200 in 44ms
+Sep 07 18:20:24 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:20:27 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:20:30 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:20:32 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:20:36 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:20:39 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:20:42 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:20:45 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:20:48 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:20:51 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:20:54 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:20:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:21:00 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:21:03 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:21:06 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:21:09 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:12 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:21:15 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:21:18 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:21:21 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:24 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:21:27 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:30 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:32 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:21:35 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:21:38 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:21:41 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:21:45 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:48 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:50 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:21:53 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:21:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:00 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:22:03 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:22:05 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:08 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:22:11 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:14 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:22:17 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:20 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:22:23 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:22:26 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:22:29 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:32 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:35 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:22:38 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:41 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:44 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:22:47 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:50 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:53 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:22:56 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:23:00 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:23:02 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:23:05 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:08 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:23:11 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:14 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:17 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:20 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:23:23 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:26 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 18:23:29 xtrgj npm[6780]:  HEAD / 200 in 51ms
+Sep 07 18:23:32 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:23:35 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:23:38 xtrgj npm[6780]:  GET / 200 in 44ms
+Sep 07 18:23:39 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:23:42 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:23:43 xtrgj npm[6780]:  ○ Compiling /icon ...
+Sep 07 18:23:44 xtrgj npm[6780]:  ✓ Compiled /icon in 1394ms (1509 modules)
+Sep 07 18:23:44 xtrgj npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 1837ms
+Sep 07 18:23:45 xtrgj npm[6780]:  HEAD / 200 in 239ms
+Sep 07 18:23:48 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:23:51 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:23:54 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:23:56 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:24:00 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:24:03 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:09 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:24:12 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:24:15 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:18 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:24:21 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:24 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:27 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:24:30 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:24:31 xtrgj npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 90ms
+Sep 07 18:24:33 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:24:36 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:24:39 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:24:42 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:24:45 xtrgj npm[6780]:  HEAD / 200 in 40ms
+Sep 07 18:24:48 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:24:51 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:24:54 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:24:57 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:25:22 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:26:11 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 18:26:14 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:26:17 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:26:20 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:23 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:26:26 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:29 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:32 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:26:35 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:26:39 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:42 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:26:45 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:26:48 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:51 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:26:54 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:26:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:27:00 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:27:03 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:27:06 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:27:09 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:27:12 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:27:15 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:27:18 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:27:21 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:27:24 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:27:27 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:27:30 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:27:33 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:27:36 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:27:39 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:27:42 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 18:28:08 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:28:08 xtrgj npm[6780]:  HEAD / 200 in 71ms
+Sep 07 18:28:08 xtrgj npm[6780]:  GET /?_refresh=19 200 in 88ms
+Sep 07 18:28:09 xtrgj npm[6780]:  GET / 200 in 34ms
+Sep 07 18:28:11 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:28:14 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:28:17 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:28:20 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:28:23 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:28:26 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:28:29 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:28:33 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:28:36 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 18:28:39 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:28:42 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:28:45 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:28:48 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:28:51 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:28:53 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 18:28:56 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:28:59 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:29:02 xtrgj npm[6780]:  HEAD / 200 in 48ms
+Sep 07 18:29:06 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 18:29:09 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:29:12 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 18:29:15 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 18:29:18 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:29:21 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:29:24 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 18:29:27 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:29:30 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 18:29:33 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 18:29:36 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:29:39 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 18:29:42 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:29:45 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 18:29:48 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 18:29:50 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:52:11 xtrgj npm[6780]:  ✓ Compiled in 1734ms (908 modules)
+Sep 07 22:52:12 xtrgj npm[6780]:  ○ Compiling / ...
+Sep 07 22:52:12 xtrgj npm[6780]:  ✓ Compiled / in 687ms (784 modules)
+Sep 07 22:52:13 xtrgj npm[6780]:  HEAD / 200 in 1097ms
+Sep 07 22:52:13 xtrgj npm[6780]:  GET / 200 in 865ms
+Sep 07 22:52:14 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 22:52:17 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:52:20 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:52:23 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:52:26 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:52:29 xtrgj npm[6780]:  HEAD / 200 in 61ms
+Sep 07 22:52:32 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:52:35 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:52:39 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 22:52:42 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:52:45 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:52:48 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 22:52:51 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:52:54 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:52:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:53:00 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:03 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:53:06 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:53:09 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 22:53:12 xtrgj npm[6780]:  HEAD / 200 in 38ms
+Sep 07 22:53:15 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:17 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:53:20 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:23 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:53:26 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:29 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:53:32 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 22:53:35 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:38 xtrgj npm[6780]:  HEAD / 200 in 41ms
+Sep 07 22:53:41 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:53:44 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:53:47 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:53:50 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:53:53 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:53:56 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:53:59 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:54:02 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:54:05 xtrgj npm[6780]:  HEAD / 200 in 38ms
+Sep 07 22:54:08 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:54:11 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:54:14 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:54:17 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:54:20 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:54:23 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:54:26 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:54:29 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:54:32 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:54:35 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:54:38 xtrgj npm[6780]:  HEAD / 200 in 22ms
+Sep 07 22:54:41 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:54:44 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:54:47 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:54:50 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:54:53 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:54:56 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:54:59 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:55:02 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:05 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:55:08 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:55:11 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:14 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:55:17 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:55:20 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:23 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:55:26 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:55:29 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:55:32 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 22:55:35 xtrgj npm[6780]:  ✓ Compiled in 1528ms (1692 modules)
+Sep 07 22:55:35 xtrgj npm[6780]:  GET /?_refresh=1 200 in 274ms
+Sep 07 22:55:35 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:55:38 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:41 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:55:44 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:47 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:55:50 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:53 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:55:56 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 22:55:59 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:56:02 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:05 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:56:08 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 22:56:11 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:56:14 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 22:56:17 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:56:20 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:23 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:56:26 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:56:29 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 22:56:33 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:56:36 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:56:38 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:56:41 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:44 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:56:47 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:50 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:53 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:56:56 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:56:58 xtrgj npm[6780]:  GET / 200 in 36ms
+Sep 07 22:57:00 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:57:01 xtrgj npm[6780]:  ✓ Compiled /icon in 369ms (803 modules)
+Sep 07 22:57:02 xtrgj npm[6780]:  GET /icon?629ebf5c999edc0a 200 in 638ms
+Sep 07 22:57:03 xtrgj npm[6780]:  HEAD / 200 in 199ms
+Sep 07 22:57:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:57:09 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 22:57:12 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:57:15 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:57:18 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:57:21 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:57:24 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:57:27 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:57:30 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:57:33 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:57:36 xtrgj npm[6780]:  HEAD / 200 in 40ms
+Sep 07 22:57:39 xtrgj npm[6780]:  HEAD / 200 in 40ms
+Sep 07 22:57:42 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:57:45 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:57:48 xtrgj npm[6780]:  HEAD / 200 in 35ms
+Sep 07 22:57:51 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:57:54 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:57:57 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:58:06 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:58:46 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:58:47 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 22:58:50 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 22:58:53 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:58:56 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:58:59 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 22:59:02 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:05 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 22:59:08 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:59:11 xtrgj npm[6780]:  HEAD / 200 in 39ms
+Sep 07 22:59:14 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:59:17 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:59:20 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:23 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:26 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:29 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:59:32 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 22:59:35 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 22:59:38 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:41 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:59:44 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 22:59:47 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 22:59:50 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 22:59:53 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 22:59:57 xtrgj npm[6780]:  HEAD / 200 in 37ms
+Sep 07 23:00:00 xtrgj npm[6780]:  HEAD / 200 in 38ms
+Sep 07 23:00:03 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:00:05 xtrgj npm[6780]:  HEAD / 200 in 34ms
+Sep 07 23:00:09 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 23:00:12 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 23:00:15 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:00:18 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 23:00:21 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:00:24 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 23:00:27 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 23:00:30 xtrgj npm[6780]:  HEAD / 200 in 39ms
+Sep 07 23:00:33 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:00:36 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:00:39 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 23:00:42 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:00:45 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:00:48 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 23:00:51 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:00:54 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:00:57 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:01:00 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:01:02 xtrgj npm[6780]:  HEAD / 200 in 39ms
+Sep 07 23:01:06 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:01:46 xtrgj npm[6780]:  ✓ Compiled in 543ms (720 modules)
+Sep 07 23:01:47 xtrgj npm[6780]:  GET /?_refresh=3 200 in 39ms
+Sep 07 23:01:57 xtrgj npm[6780]:  ✓ Compiled in 210ms (720 modules)
+Sep 07 23:01:59 xtrgj npm[6780]:  GET /?_refresh=5 200 in 34ms
+Sep 07 23:02:02 xtrgj npm[6780]:  ✓ Compiled in 167ms (720 modules)
+Sep 07 23:02:02 xtrgj npm[6780]:  GET /?_refresh=6 200 in 33ms
+Sep 07 23:02:02 xtrgj npm[6780]:  GET /?_refresh=7 200 in 32ms
+Sep 07 23:02:06 xtrgj npm[6780]:  HEAD / 200 in 29ms
+Sep 07 23:02:09 xtrgj npm[6780]:  GET /?_refresh=8 200 in 34ms
+Sep 07 23:02:10 xtrgj npm[6780]:  GET /?_refresh=9 200 in 37ms
+Sep 07 23:02:16 xtrgj npm[6780]:  ✓ Compiled in 828ms (1692 modules)
+Sep 07 23:02:16 xtrgj npm[6780]:  HEAD / 200 in 510ms
+Sep 07 23:02:16 xtrgj npm[6780]:  GET /?_refresh=10 200 in 40ms
+Sep 07 23:02:17 xtrgj npm[6780]:  GET /?_refresh=11 200 in 34ms
+Sep 07 23:02:17 xtrgj npm[6780]:  HEAD / 200 in 25ms
+Sep 07 23:02:20 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:23 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:27 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:30 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:33 xtrgj npm[6780]:  HEAD / 200 in 61ms
+Sep 07 23:02:36 xtrgj npm[6780]:  HEAD / 200 in 32ms
+Sep 07 23:02:39 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:02:42 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:02:44 xtrgj npm[6780]:  ✓ Compiled in 1147ms (1507 modules)
+Sep 07 23:02:45 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:45 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:45 xtrgj npm[6780]:  GET /?_refresh=13 200 in 248ms
+Sep 07 23:02:45 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:45 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:45 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:48 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:48 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:48 xtrgj npm[6780]:  GET / 200 in 34ms
+Sep 07 23:02:48 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:48 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:48 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:51 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:02:51 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:51 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:54 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:02:54 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:54 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:55 xtrgj npm[6780]:  ✓ Compiled in 358ms (1509 modules)
+Sep 07 23:02:56 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:56 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:56 xtrgj npm[6780]:  GET /?_refresh=14 200 in 205ms
+Sep 07 23:02:56 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:56 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:02:56 xtrgj npm[6780]:  GET /?_refresh=15 200 in 35ms
+Sep 07 23:02:57 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:02:57 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:02:57 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:00 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:03:00 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:00 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:03 xtrgj npm[6780]:  HEAD / 200 in 30ms
+Sep 07 23:03:03 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:03 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:06 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:03:06 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:06 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:09 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:03:09 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:09 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:12 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:03:12 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:12 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:15 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:03:15 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:15 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:16 xtrgj npm[6780]:  ✓ Compiled in 781ms (1511 modules)
+Sep 07 23:03:17 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:17 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:17 xtrgj npm[6780]:  GET /?_refresh=16 200 in 115ms
+Sep 07 23:03:17 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:17 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:17 xtrgj npm[6780]:  GET /?_refresh=17 200 in 33ms
+Sep 07 23:03:18 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:03:18 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:18 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:21 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:03:21 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:21 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:52 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:03:52 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:52 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:03:53 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:03:53 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:03:53 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:00 xtrgj npm[6780]:  HEAD / 200 in 40ms
+Sep 07 23:04:00 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:00 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:02 xtrgj npm[6780]:  ✓ Compiled in 360ms (1511 modules)
+Sep 07 23:04:03 xtrgj npm[6780]:  HEAD / 200 in 101ms
+Sep 07 23:04:03 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:03 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:03 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:03 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:03 xtrgj npm[6780]:  GET /?_refresh=18 200 in 33ms
+Sep 07 23:04:03 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:03 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:03 xtrgj npm[6780]:  GET /?_refresh=19 200 in 42ms
+Sep 07 23:04:06 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:04:06 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:06 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:09 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:04:09 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:09 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:12 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:04:12 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:12 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:15 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:04:15 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:15 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:18 xtrgj npm[6780]:  HEAD / 200 in 23ms
+Sep 07 23:04:18 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:18 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:21 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:04:21 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:21 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:24 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:04:24 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:24 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:27 xtrgj npm[6780]:  HEAD / 200 in 24ms
+Sep 07 23:04:27 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:27 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:30 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 23:04:30 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:30 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:33 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 23:04:33 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:33 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:36 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 23:04:36 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:36 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:39 xtrgj npm[6780]:  HEAD / 200 in 27ms
+Sep 07 23:04:39 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:39 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:42 xtrgj npm[6780]:  HEAD / 200 in 28ms
+Sep 07 23:04:42 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:42 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:45 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:04:45 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:45 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:47 xtrgj npm[6780]:  ✓ Compiled in 412ms (1511 modules)
+Sep 07 23:04:48 xtrgj npm[6780]:  HEAD / 200 in 190ms
+Sep 07 23:04:48 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:48 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:48 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:48 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:48 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:48 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:48 xtrgj npm[6780]:  GET /?_refresh=20 200 in 86ms
+Sep 07 23:04:48 xtrgj npm[6780]:  GET /?_refresh=21 200 in 87ms
+Sep 07 23:04:51 xtrgj npm[6780]:  HEAD / 200 in 31ms
+Sep 07 23:04:51 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:51 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:04:54 xtrgj npm[6780]:  HEAD / 200 in 26ms
+Sep 07 23:04:54 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:04:54 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Sep 07 23:05:06 xtrgj npm[6780]:  HEAD / 200 in 33ms
+Sep 07 23:05:06 xtrgj npm[6780]:  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Sep 07 23:05:06 xtrgj npm[6780]: Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
