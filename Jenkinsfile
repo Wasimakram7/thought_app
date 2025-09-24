@@ -2,36 +2,50 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "wasimakram7/thought_app"
-        DOCKER_CREDENTIALS = credentials('dockerhub')
+        DOCKERHUB_CREDENTIALS = credentials('dockerhub') 
+        DOCKERHUB_USER = 'your-dockerhub-username'
+        IMAGE_NAME = 'thought_app'
     }
 
     stages {
         stage('Checkout') {
             steps {
+                // works only in "Pipeline script from SCM"
                 checkout scm
             }
         }
 
-        stage('Build & Push Docker Image') {
-            agent { label 'master' }   // ensure node context
+        stage('Build Docker Image') {
             steps {
-                script {
-                    sh "docker build -t $DOCKER_IMAGE:$BUILD_NUMBER ."
-                    sh "echo $DOCKER_CREDENTIALS_PSW | docker login -u $DOCKER_CREDENTIALS_USR --password-stdin"
-                    sh "docker push $DOCKER_IMAGE:$BUILD_NUMBER"
-                    sh "docker tag $DOCKER_IMAGE:$BUILD_NUMBER $DOCKER_IMAGE:latest"
-                    sh "docker push $DOCKER_IMAGE:latest"
-                }
+                sh """
+                docker build -t ${DOCKERHUB_USER}/${IMAGE_NAME}:${env.BUILD_NUMBER} .
+                """
+            }
+        }
+
+        stage('Login to DockerHub') {
+            steps {
+                sh """
+                echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin
+                """
+            }
+        }
+
+        stage('Push Docker Image') {
+            steps {
+                sh """
+                docker push ${DOCKERHUB_USER}/${IMAGE_NAME}:${env.BUILD_NUMBER}
+                """
             }
         }
     }
 
     post {
-        always {
-            script {
-                sh "docker logout || true"
-            }
+        success {
+            echo "✅ Build & Push successful!"
+        }
+        failure {
+            echo "❌ Pipeline failed!"
         }
     }
 }
