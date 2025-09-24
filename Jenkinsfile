@@ -15,15 +15,14 @@ pipeline {
 
         stage('SonarQube Analysis') {
             steps {
-                withSonarQubeEnv('SonarQube') { // Name from Manage Jenkins → Configure System
-                    withSonarQubeScannerInstallation('SonarScanner') { // Name from Global Tool Config
-                        sh """
-                        sonar-scanner \
-                          -Dsonar.projectKey=thought_app \
-                          -Dsonar.sources=. \
-                          -Dsonar.host.url=http://<your-sonarqube-ip>:9000
-                        """
-                    }
+                // SonarQube must already be configured in Jenkins → Configure System
+                withSonarQubeEnv('SonarQube') {  // "SonarQube" must match the name in Jenkins config
+                    sh """
+                    sonar-scanner \
+                      -Dsonar.projectKey=thought_app \
+                      -Dsonar.sources=. \
+                      -Dsonar.host.url=http://<your-sonarqube-ip>:9000
+                    """
                 }
             }
         }
@@ -39,10 +38,9 @@ pipeline {
         stage('Trivy Security Scan') {
             steps {
                 script {
-                    // Trivy must be installed on the Jenkins server/agent
                     sh '''
                     echo "🔍 Running Trivy Scan..."
-                    trivy image --exit-code 1 --severity HIGH,CRITICAL $DOCKER_IMAGE:$BUILD_NUMBER || true
+                    trivy image --exit-code 1 --severity HIGH,CRITICAL $DOCKER_IMAGE:$BUILD_NUMBER
                     '''
                 }
             }
