@@ -2,58 +2,64 @@ pipeline {
     agent any
 
     environment {
-        DOCKERHUB_CREDENTIALS = credentials('dockerhub')
-        DOCKERHUB_USER = 'wasim78'
-        IMAGE_NAME = 'thought_app'
-        SONARQUBE_ENV = 'SonarQube'   // Name configured in Jenkins
+        DOCKER_IMAGE = "wasimakram7/thought_app"   // your DockerHub repo
+        DOCKER_CREDENTIALS = credentials('dockerhub') // Jenkins credentials ID for DockerHub
     }
 
     stages {
         stage('Checkout') {
             steps {
-                checkout scm
+                git branch: 'main', url: 'https://github.com/Wasimakram7/thought_app.git'
             }
         }
 
         stage('SonarQube Analysis') {
             steps {
-                withSonarQubeEnv("${SONARQUBE_ENV}") {
-                    sh """
-                    sonar-scanner \
-                      -Dsonar.projectKey=thought_app \
-                      -Dsonar.sources=. \
-                      -Dsonar.host.url=$SONAR_HOST_URL \
-                      -Dsonar.login=$SONAR_AUTH_TOKEN
-                    """
+                withSonarQubeEnv('SonarQube') {       // <-- must match the Name in Jenkins config
+                    withSonarQubeScannerInstallation('SonarScanner') {  // <-- must match tool name in Global Tool Configuration
+                        sh """
+                        sonar-scanner \
+                          -Dsonar.projectKey=thought_app \
+                          -Dsonar.sources=. \
+                          -Dsonar.host.url=http://13.53.64.103:9000
+                        """
+                    }
                 }
             }
         }
 
         stage('Build Docker Image') {
             steps {
-                sh "docker build -t ${DOCKERHUB_USER}/${IMAGE_NAME}:${env.BUILD_NUMBER} ."
+                script {
+                    sh 'docker build -t $DOCKER_IMAGE:$BUILD_NUMBER .'
+                }
             }
         }
 
         stage('Login to DockerHub') {
             steps {
-                sh "echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin"
+                script {
+                    sh "echo $DOCKER_CREDENTIALS_PSW | docker login -u $DOCKER_CREDENTIALS_USR --password-stdin"
+                }
             }
         }
 
         stage('Push Docker Image') {
             steps {
-                sh "docker push ${DOCKERHUB_USER}/${IMAGE_NAME}:${env.BUILD_NUMBER}"
+                script {
+                    sh 'docker push $DOCKER_IMAGE:$BUILD_NUMBER'
+                    sh 'docker tag $DOCKER_IMAGE:$BUILD_NUMBER $DOCKER_IMAGE:latest'
+                    sh 'docker push $DOCKER_IMAGE:latest'
+                }
             }
         }
     }
 
     post {
-        success {
-            echo "✅ Build, Scan & Push successful!"
-        }
-        failure {
-            echo "❌ Pipeline failed!"
+        always {
+            script {
+                sh 'docker logout || true'
+            }
         }
     }
 }
