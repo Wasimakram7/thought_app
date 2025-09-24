@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = credentials('dockerhub') 
-        DOCKERHUB_USER = 'your-dockerhub-username'
+        DOCKERHUB_USER = 'wasim78'
         IMAGE_NAME = 'thought_app'
     }
 
