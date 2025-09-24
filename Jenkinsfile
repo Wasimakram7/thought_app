@@ -5,7 +5,7 @@ pipeline {
         DOCKERHUB_CREDENTIALS = credentials('dockerhub')
         DOCKERHUB_USER = 'wasim78'
         IMAGE_NAME = 'thought_app'
-        SONARQUBE_ENV = 'MySonarQubeServer'   // Name configured in Jenkins
+        SONARQUBE_ENV = 'SonarQube'   // Name configured in Jenkins
     }
 
     stages {
